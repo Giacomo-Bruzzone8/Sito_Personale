@@ -1,0 +1,11 @@
+.heightCustom{
+    min-height: 60vh;
+}
+.dropdown-btn {
+    transition: .2s;
+}
+
+.dropdown-btn:hover {
+    background-color: red;
+    color: whitesmoke;
+}
